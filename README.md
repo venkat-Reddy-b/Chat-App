@@ -6,16 +6,33 @@ A room hast to be created with unique name and user has to join the room with a 
 
 User can send his location to other users.It displays all the notification when a new user joins and if a user left and it 
 
+## Dependies
 
-# Demo
+1. bad-words
+
+2. express
+
+3. nodemon
+
+4. socket.io
+
+
+
+## Demo
+
+### Screenshot1
 
 ![App Screenshot](public/img/pic1.jpg)
 
 1) this displays the front page of the application
 
+### Screenshot2
+
 ![App Screenshot](public/img/pic2.jpg)
 
 2) Users and room number can be seen on the left side 
+
+### Screenshot3
 
 ![App Screenshot](public/img/pic3.jpg)
 
