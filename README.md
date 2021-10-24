@@ -1,6 +1,6 @@
 # Chat-App
 
-Developed a chatting application using Node JS, HTML, CSS an Socket.Io library to allow user to create room and chat with other users who joins the room.
+Developed a chatting application using Node JS, HTML, CSS and Socket.Io library to allow user to create room and chat with other users who joins the room.
 
 A room hast to be created with unique name and user has to join the room with a name he can share the room name to other users so the other users can join the room.
 
